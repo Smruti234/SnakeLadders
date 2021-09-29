@@ -1,6 +1,6 @@
 package SnakeLadder;
 
-public class SnakeLadderuc7 {
+public class SnakeLadder {
 	public static void main(String[] args) {
 		int countForPlayerOne = 0,countForPlayerTwo = 0;
 		final int DECIDE_PLAYER = 0,WINNING_POSITION = 100,STARTING_POSITION=0;
